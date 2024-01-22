@@ -5,7 +5,7 @@
 ### Personal Projects
 
 [Forest Fire Detection](https://github.com/joaolealgh/ForestFireDetection)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/annotated_video.gif?raw=true"/>
 
 ---
 [Predicting Health Costs](https://github.com/joaolealgh/FreeCodeCampMachineLearning/tree/master/projects/Linear%20Regression%20Health%20Costs%20Calculator)
