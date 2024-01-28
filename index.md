@@ -1,26 +1,42 @@
-## Portfolio
+# Portfolio
+
+
+## Personal Projects
+
+This is my personal portfolio where I update some of the projects that I am currently envolved or projects that are completed. The main areas will most likely always be Data Science, Deep Learning, and Machine Learning, however, projects related to Data Analysis, Data Engineering, and Internet of Things may also surge.
+
+The projects are strictly non-commercial and are mainly developed for personal growth and for learning new technologies in the areas aforementioned.
+
+## [Traffic Sign Detection]() [In-Progress]
+
+<img src="images/traffic_sign_detection.png?raw=true"/>
 
 ---
 
-### Personal Projects
 
-[Forest Fire Detection](https://github.com/joaolealgh/ForestFireDetection)
+## [Forest Fire Detection](https://github.com/joaolealgh/ForestFireDetection) [Completed]
+
+
 <img src="images/annotated_video.gif?raw=true"/>
 
 ---
-[Stroke Prediction](https://github.com/joaolealgh/kaggle-projects/blob/master/StrokePredictionDataset/stroke_prediction.ipynb)
+## [Stroke Prediction](https://github.com/joaolealgh/kaggle-projects/blob/master/StrokePredictionDataset/stroke_prediction.ipynb) [Completed]
+
 <img src="images/stroke_prediction.jpg?raw=true"/>
 
 ---
-[Mall Customer Segmentation](https://github.com/joaolealgh/kaggle-projects/blob/master/MallCustomerSegmentationData/mall_customer_segmentation.ipynb)
+## [Mall Customer Segmentation](https://github.com/joaolealgh/kaggle-projects/blob/master/MallCustomerSegmentationData/mall_customer_segmentation.ipynb) [Completed]
+
 <img src="images/mall_customer_segmentation.jpg?raw=true"/>
 
 ---
-[Predicting Health Costs](https://github.com/joaolealgh/FreeCodeCampMachineLearning/tree/master/projects/Linear%20Regression%20Health%20Costs%20Calculator)
+## [Predicting Health Costs](https://github.com/joaolealgh/FreeCodeCampMachineLearning/tree/master/projects/Linear%20Regression%20Health%20Costs%20Calculator) [Completed]
+
 <img src="images/predicting_health_costs.jpg?raw=true"/>
 
 ---
-[Digit Recognition](https://github.com/joaolealgh/MNIST-Basic-CNN)
+## [Digit Recognition](https://github.com/joaolealgh/MNIST-Basic-CNN) [Completed]
+
 <img src="images/mnist_project_results.png?raw=true"/>
 
 <!--
