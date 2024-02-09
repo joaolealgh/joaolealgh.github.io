@@ -9,11 +9,13 @@ The projects are strictly non-commercial and are mainly developed for personal g
 
 ## [Snake Game]()[In-Progress]
 
+<img src="images/snake_game.jpg?raw=true"/>
+
 ---
 
 ## [House Finder](https://github.com/joaolealgh/house-finder-portugal) [In-Progress]
 
-<img src="images/house_finder.png?raw=true"/>
+<img src="images/house_finder.jpg?raw=true"/>
 
 ---
 
